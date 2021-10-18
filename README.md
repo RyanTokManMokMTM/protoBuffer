@@ -4,7 +4,7 @@
 
 > How is Protocol Buffer used?
 
-`Create a .protol file` -> `Automatically generate the code for any language`-> `serialization the data(deconde&encode)` -> `Send via network`
+`Create a .protol file`->`Automatically generate the code for any language`->`serialization the data(deconde&encode)`->`Send via network`
 
 ----
 
